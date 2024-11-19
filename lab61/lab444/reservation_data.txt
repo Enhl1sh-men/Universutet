@@ -1,0 +1,16 @@
+Ivan
+Suite
+2
+150
+Olga
+Deluxe
+2
+180
+Petro
+Single
+1
+70
+Anna
+Suite
+3
+250
